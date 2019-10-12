@@ -1,0 +1,2 @@
+cargo:rustc-link-lib=/home/auro/projects/gridgen/cpp_stuff/jtep
+cargo:rerun-if-changed=/home/auro/projects/gridgen/cpp_stuff/header.h

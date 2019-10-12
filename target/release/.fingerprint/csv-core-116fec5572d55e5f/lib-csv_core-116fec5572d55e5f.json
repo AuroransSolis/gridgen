@@ -1,0 +1,1 @@
+{"rustc":5632553715040628694,"features":"[\"default\", \"libc\", \"memchr\"]","target":8649808053540029026,"profile":9179201413812733128,"path":17118781164410209384,"deps":[[501838543654208696,"memchr",false,7409347422323413809]],"local":[{"Precalculated":"0.1.6"}],"rustflags":["-C","target-cpu=native"],"metadata":6235794881705315069}

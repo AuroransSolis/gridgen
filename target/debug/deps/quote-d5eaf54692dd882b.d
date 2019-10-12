@@ -1,0 +1,13 @@
+/home/auro/projects/gridgen/target/debug/deps/quote-d5eaf54692dd882b.rmeta: /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/lib.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ext.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/format.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ident_fragment.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/to_tokens.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/runtime.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/spanned.rs
+
+/home/auro/projects/gridgen/target/debug/deps/libquote-d5eaf54692dd882b.rlib: /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/lib.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ext.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/format.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ident_fragment.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/to_tokens.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/runtime.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/spanned.rs
+
+/home/auro/projects/gridgen/target/debug/deps/quote-d5eaf54692dd882b.d: /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/lib.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ext.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/format.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ident_fragment.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/to_tokens.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/runtime.rs /home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/spanned.rs
+
+/home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/lib.rs:
+/home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ext.rs:
+/home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/format.rs:
+/home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ident_fragment.rs:
+/home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/to_tokens.rs:
+/home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/runtime.rs:
+/home/auro/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/spanned.rs:
