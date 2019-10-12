@@ -19,8 +19,6 @@ fn bench_gen_grid_bit_magic(c: &mut Criterion) {
     }
 }
 
-#[link]
-
 criterion_group!{
     name = bench_gen_grid;
     config = Criterion::default();
