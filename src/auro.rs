@@ -18,21 +18,12 @@ fn print_grid(grid: &[u8], side_len: usize) {
 pub fn gen_grid_bit_magic(size: usize) -> Vec<u8> {
     let mut grid = Vec::with_capacity(size * size);
     unsafe {
-        grid.set_len(size * size);
+	grid.set_len(size * size);
     }
     grid[0] = 1;
     let mut markers = vec![0; size * 2];
     markers[0] = 1;
     markers[size] = 1;
-    // First row
-    /*for i in 1..size {
-        grid[i] = get_mark_smallest(&mut markers, size, 0, i);
-    }
-    for row in 1..size {
-        for col in 0..size {
-            grid[row * size + col] = get_mark_smallest(&mut markers, size, row, col);
-        }
-    }*/
     for len in  1..size {
         let new_tr = get_mark_smallest(&mut markers, size, 0, len);
         let new_bl = get_mark_smallest(&mut markers, size, len, 0);
@@ -44,7 +35,7 @@ pub fn gen_grid_bit_magic(size: usize) -> Vec<u8> {
             grid[n * size + len] = new_r;
             grid[len * size + n] = new_b;
         }
-        let new_br = get_mark_smallest(&mut markers, size, len, len);
+	let new_br = get_mark_smallest(&mut markers, size, len, len);
         grid[len * size + len] = new_br;
     }
     grid

@@ -11,6 +11,14 @@ edition = "2018"
 [dev-dependencies]
 criterion = "0.2.11"
 
+[[bin]]
+name = "auro"
+path = "src/auro.rs"
+
+[[bin]]
+name = "jetp"
+path = "src/jetp.rs"
+
 [[bench]]
 name = "bench"
 harness = false
