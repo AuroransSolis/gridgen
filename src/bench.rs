@@ -25,7 +25,7 @@ fn bench_gen_grid_bit_magic(c: &mut Criterion) {
 
 fn bench_create_grid(c: &mut Criterion) {
     for &size in SIZES.iter() {
-        let id = format!("Generage grid {} (jetp)", size);
+        let id = format!("Generate grid {} (jetp)", size);
         let size = size.try_into().unwrap();
         c.bench_function(id.as_str(), move |b| {
             b.iter(|| {
